@@ -1,0 +1,40 @@
+body{
+   background-image: url("background.jpg");
+ 
+   margin: 0 auto;
+   max-width: 100;
+}
+
+
+header{
+    background-color: rgb(104, 0, 189);
+    text-align: center;
+    margin-top: 15%;
+}
+
+h1{
+    color: goldenrod;
+    font-family: ;
+}
+
+nav{
+    background-color: blueviolet;
+    max-width: 25%;
+    padding: 3%;
+    height: 100vh;
+    position: fixed;
+    top: 0px;
+}
+
+main{
+background-color: rgb(0, 0, 0);
+padding: 10px;
+max-width: 60%;
+margin-left: 30%;
+font-family: artu;
+color: goldenrod;
+}
+
+footer{
+    background-color: red;
+}
