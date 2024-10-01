@@ -116,7 +116,7 @@ transform: scale(1.08);
 }
 
 #friends{
-    border: ;
+
     text-align: center;
     
     }
@@ -146,6 +146,7 @@ a img{
 }
 
 a:hover {
+    color: blueviolet;
     opacity: .5;
 }
 
