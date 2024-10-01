@@ -148,3 +148,7 @@ a img{
 a:hover {
     opacity: .5;
 }
+
+h3:hover {
+    color: blueviolet;
+}
